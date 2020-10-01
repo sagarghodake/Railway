@@ -63,13 +63,17 @@ Hardware/Software Requirement
 •	Hardware Requriments-
 ---------
 	Processor – Pentium core and above.
+
 	Processor – 1.86GH and above.
+
 	RAM – 1GB and above.
+
 	Hard Disk – 20 GB.
 
 •	Software Requriments –
 --------
 	Frontend Used – Microsoft Visual Studio 2010
+
 	Backend Used – SQL Server Management 2008
 
 •	Operating System – Windows 2007 and Above.
