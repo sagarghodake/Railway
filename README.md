@@ -60,14 +60,14 @@ NEED FOR COMPUTERIZATION
 Hardware/Software Requirement
 --------------------------------------------------
 
-•	Minimum Hardware Platform-
+•	Hardware Requriments-
 ---------
 	Processor – Pentium core and above.
 	Processor – 1.86GH and above.
 	RAM – 1GB and above.
 	Hard Disk – 20 GB.
 
-•	Software Platform –
+•	Software Requriments –
 --------
 	Frontend Used – Microsoft Visual Studio 2010
 	Backend Used – SQL Server Management 2008
